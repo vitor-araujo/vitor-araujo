@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working at the intersection between data and software engineering. I'm learning MLOps and have founded three startups. Recently, I got married and I'm passionate about technology. I live in São Paulo, Brazil.
+- I'm currently working at the intersection between data and software engineering. I'm learning MLOps and have founded three startups. Recently, I got married, moved to our new house and take care of our lovely dog Clara. I live in São Paulo, Brazil.
 - At Huntly, co-founded and developed a service marketplace with React, Next.js, and Postgres, helping thousands of people find jobs in Brazil.
 - At Alt.bank, designed a data mart for risk and credit scoring models, creating data migration guides and quality pipelines.
 - At Shopee, developed data pipelines and automated workflows with AWS services, supporting a rapidly expanding marketing team.

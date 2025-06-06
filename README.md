@@ -66,9 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-araujo&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-- ✨ **[aMORA](https://amora.tech)**: Leading engineering team and reducing cloud costs by 65% through infrastructure optimization
+- ✨ **[aMORA](https://amora.com.br)**: Leading engineering team and reducing cloud costs by 65% through infrastructure optimization
 - 🏆 **[Huntly](https://huntly.com.br)**: Built backend systems with 99.9% uptime supporting 2K weekly active users and R$2MM annual GMV
-- 📊 **[Alt.bank](https://alt.bank)**: Designed data marts for risk models with Python-based quality pipelines
+- 📊 **[Alt.bank](https://altbank.ai/en/)**: Designed data marts for risk models with Python-based quality pipelines
 - 📈 **[Shopee](https://shopee.com.br)**: Developed data pipelines with PySpark and automated workflows using AWS
 
 <details>

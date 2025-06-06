@@ -71,39 +71,6 @@
 - 📊 **[Alt.bank](https://altbank.ai/en/)**: Designed data marts for risk models with Python-based quality pipelines
 - 📈 **[Shopee](https://shopee.com.br)**: Developed data pipelines with PySpark and automated workflows using AWS
 
-<details>
-  <summary><b>🔍 More About My Experience</b></summary>
-  <br>
-  
-  ### Tech Lead @ aMORA (2024 - Present)
-  - Scaled backend deployments from <1 to 7+ per week through automation and CI/CD practices
-  - Designed and implemented robust Python APIs (using FastAPI) to power core business services
-  - Led a cross-functional team (3 SWEs, 1 PM, 1 Designer)
-  
-  ### Co-founder & Software Engineer @ Huntly (2021 - 2024)
-  - Developed backend systems using Python frameworks (Flask and FastAPI)
-  - Implemented scalable data pipelines with Python, APScheduler, Celery, and RabbitMQ
-  - Integrated RESTful APIs and GraphQL endpoints to support React.js and Next.js frontends
-</details>
-
-## 📚 Education & Certifications
-
-- 🎓 **Industrial Engineering** - [Universidade Federal do ABC (UFABC)](https://www.ufabc.edu.br/), 2017-2022
-- 🎓 **Bachelor of Applied Science** - [Universidade Federal do ABC (UFABC)](https://www.ufabc.edu.br/), 2012-2017
-- 📜 **[Entrepreneurship 101](https://www.edx.org/course/entrepreneurship-101-who-is-your-customer)** - MITx
-- 📜 **Building Deep Learning Applications with Keras 2.0** - LinkedIn
-
-## 💼 Projects & Contributions
-
-<div align="center">
-  <a href="https://github.com/vitor-araujo/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitor-araujo&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/vitor-araujo/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitor-araujo&repo=project2&theme=radical" />
-  </a>
-</div>
-
 ## 📫 Let's Connect
 
 <p align="center">

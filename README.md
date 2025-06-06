@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as **Tech Lead** at [aMORA](https://amora.tech)
+- 🔭 Currently working as **Tech Lead** at [aMORA](https://amora.com.br)
 - 🚀 Co-founder of [Huntly](https://huntly.com.br), a service marketplace helping thousands find jobs
-- 💡 Previously built data systems at [Alt.bank](https://alt.bank) and [Shopee](https://shopee.com.br)
+- 💡 Previously built data systems at [Alt.bank]([https://alt.bank](https://altbank.ai/en/)) and [Shopee](https://shopee.com.br)
 - 🌱 Learning **MLOps** and exploring **cloud optimization** techniques
 - 🏡 Based in **São Paulo, Brazil** with my lovely dog Clara
 - 📫 Reach me at: **araujo.vitorgabriel@gmail.com**

@@ -50,8 +50,6 @@ through infrastructure optimization.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitor-araujo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333&hide=contribs" alt="GitHub Stats" height="160"/>
-
 <br>
 <br>
 

@@ -8,9 +8,11 @@
   <a href="mailto:araujo.vitorgabriel@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
   <a href="https://www.linkedin.com/in/vitor-gabriel-araujo">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://github.com/vitor-araujo">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -18,9 +20,8 @@
 
 <br>
 
-Building scalable systems, leading engineering teams, and optimizing cloud infrastructure.  
-Co-founded a service marketplace, designed data pipelines, and reduced operational costs  
-through infrastructure optimization.
+Creating technology that empowers people. Leading teams that build at scale.
+Optimizing systems that serve thousands.
 
 **São Paulo, Brazil**
 
@@ -49,6 +50,7 @@ through infrastructure optimization.
 </p>
 
 <br>
+
 
 <br>
 <br>
